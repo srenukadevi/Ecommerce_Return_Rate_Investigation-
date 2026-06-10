@@ -4,7 +4,7 @@ E-commerce Return Rate Investigation
 Product returns are a major challenge in the e-commerce industry, leading to increased operational costs, reduced profitability, and lower customer satisfaction. Understanding the factors that contribute to product returns can help businesses improve product quality, optimize logistics, and enhance customer experience.
 The objective of this project is to analyze e-commerce return data using statistical and analytical techniques to identify key patterns, trends, and factors influencing return rates. Based on the findings, actionable recommendations are provided to help reduce returns and improve business performance.
 
-2. Dataset Description
+2. Dataset Description 
 The dataset contains information related to customer orders, product categories, order details, and return status. Each record represents a transaction made by a customer.
 Key Attributes
 | Column Name      | Description                                         |
